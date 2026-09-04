@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ranjana0707/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Ranjana0707/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Ranjana0707/leetcode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +32,7 @@
 | [0015-3sum](https://github.com/Ranjana0707/leetcode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Ranjana0707/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Ranjana0707/leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Ranjana0707/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Ranjana0707/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Ranjana0707/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,8 +57,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Ranjana0707/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ranjana0707/leetcode/tree/main/0268-missing-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Ranjana0707/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
